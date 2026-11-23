@@ -24,11 +24,11 @@ In order to avoid overlapping assignments and missed cleaning duties, this syste
 
 ## Repository Structure
 
-- `Project-Background/` – Introductory notes about the system
-- `Requirements/` – Functional requirements descriptions
-- `System-Design/` – Design of system 
-- `Project-Planning/` – Project timeline, milestones, and task allocation
-- `Appendices/` – Supporting documents, meeting minutes, and additional references
+* [[Project-Background]] – Problem statement, justifications, key users, and core system modules.
+* [[Team-and-Planning]] – Group members, module allocations, repository workflow, and project timeline.
+* [[Stakeholders-and-Interviews]] – Stakeholder analysis, requirement gathering techniques, and interview questions.
+* [[System-Requirements]] – Complete list of Functional Requirements (FR) and Non-Functional Requirements (NFR).
+* [[System-Design]] – UML Use Case Diagrams and UI Wireframes *(Upcoming in Milestone 2)*.
 
 ## Collaboration Tools
 
