@@ -14,12 +14,12 @@ In order to avoid overlapping assignments and missed cleaning duties, this syste
 
 ## Group Members and Responsibilities
 
-| Member | Name | Matric Number | Responsibilities |
-|---|---|---|---|
-| 1 | XXXXX | XXX | XXXX |
-| 2 | XXXXX | XXX | XXXX |
-| 3 | XXXXX | XXX | XXXX |
-| 4 | XXXXX | XXX | XXXX |
+| Member | Assigned Module | Roles and Responsibilities |
+| :--- | :--- | :--- |
+| **Member 1** | Cleaning Schedule Management | Identify schedule requirements and design the recurring weekly schedule functions and interface. |
+| **Member 2** | Cleaner Task Assignment | Identify assignment requirements and design cleaner/task/location assignment functions. |
+| **Member 3** | Cleaning Location Management | Identify location data requirements and design location maintenance functions. |
+| **Member 4** | Schedule Monitoring, Reports & Feedback | Identify monitoring/reporting requirements; design request status, cleaning reports, and lecturer feedback functions. |
 
 
 ## Repository Structure
